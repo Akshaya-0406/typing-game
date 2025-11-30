@@ -37,8 +37,7 @@ Includes **difficulty levels, WPM tracking, accuracy, leaderboard**, and a **dar
 ---
 
 ## 🖥️ Live Demo
-👉 https://your-vercel-url.vercel.app/  
-*(Replace with your actual deployment link)*
+https://akki-typing-game.vercel.app/
 
 ---
 
